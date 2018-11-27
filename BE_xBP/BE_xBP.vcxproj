@@ -37,8 +37,8 @@
     <ProjectGuid>{D2129EF8-1B78-4C81-9D9A-C78ED99C9B05}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>BExBP</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
     <ProjectName>BE_xBP</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
